@@ -13,3 +13,17 @@ Parei a leitura em: "To find the documents in this table, see"
 - <https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file#table-of-contents>
 - <https://github.com/microsoft/fluentui-emoji/tree/main>
 - <https://twemoji-cheatsheet.vercel.app/>
+
+## Other links
+
+- <https://github.com/search?q=emoji&type=repositories&p=2>
+- <https://github.com/carpedm20/emoji>
+- <https://carpedm20.github.io/emoji/all.html?enableList=enable_list_it>
+- <https://www.unicode.org/emoji/charts/full-emoji-list.html>
+- <https://github.com/twitter/twemoji>
+- <https://github.com/missive/emoji-mart>
+- <https://github.com/github/gemoji>
+- <https://github.com/caiyongji/emoji-list>
+- <https://github.com/WebpageFX/emoji-cheat-sheet.com>
+- <https://github.com/github/gemoji/pull/262>
+- <https://github.com/github/gemoji>
